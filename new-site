@@ -1,0 +1,28 @@
+<html>
+   <title>7 найвідоміших мов світу</title>
+   <body>
+       <header>
+           <img src="https://logo-suggestion.renderforest.com/suggestions-images/b81e/e675/b81ee675142ca92a657615e03489962f.png" width="200px" height="70px"/>
+           <h1 style="text-align:center;font-size:50px">7 найвідоміших мов світу</h1>
+       </header>
+       <main>
+           <h3 style="font-family:cursive;font-size:40px">1.Англійська</h3>
+           <p style="font-size:20px">це мова міжнародного спілкування, нею говорить 1,132 мільярда людей.</p> <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuVUd2EfAhs2popnen4FYLY8zaeKbWwG12tFqPFpxqjw&s"/> 
+           <h3 style="font-family:cursive;font-size:40px">2.Мандаринська Китайська</h3>
+           <p style="font-size:20px">нею говорять 1,117 млрд осіб, але географія поширення обмежена Азією.</p> <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTYL4k-lePaMEE__bCEE5nG-2GXZbrjTErwRs4t6UZND3mhP27wRMKmQ43Y74YojWxQs0&usqp=CAU"/>
+           <h3 style="font-family:cursive;font-size:40px">3.Хінді</h3>
+           <p style="font-size:20px">нею володіє набагато менше носіїв “всього” 615 мільйонів.</p> <br> <img src="https://a.allegroimg.com/original/11768d/0c88a7e84ed69ce04a4a932e1b04/JEZYK-HINDI-3-ksiazki-Danuta-Stasik-DIALOG-24h" width="230px" height="200px"/>
+           <h3 style="font-family:cursive;font-size:40px">4.Іспанська</h3>
+           <p style="font-size:20px">налічує 534 мільйони носіїв і є офіційною у 22 країнах на чотирьох континентах. Сьогодні вона вважається другою за популярністю серед досліджуваних іноземних після англійської, а за прогнозами експертів вже через три покоління іспанською може говорити 10% населення Землі!</p> <br> <img src="https://olimp.ippo.kubg.edu.ua/wp-content/uploads/2018/02/isp_mova.jpg"/>
+           <h3 style="font-family:cursive;font-size:40px">5.Французька</h3>
+           <p style="font-size:20px">нею говорять 280 мільйона людей, а офіційною (крім Франції) вона визнана в Канаді, Сенегалі і Мадагаскарі. Кажуть, що в коханні потрібно зізнаватися тільки французькою. А ще цікавий факт: близько 45% сучасних англійських слів мають французьке походження.</p> <br> <img src="https://media.istockphoto.com/id/1356560423/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81-%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B5-%D0%BB%D0%B8-%D0%B2%D1%8B-%D0%BF%D0%BE-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8-%D0%BF%D0%BE-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8-%D0%B2-%D0%BF%D0%B0%D1%80%D0%B8%D0%B6%D0%B5.jpg?s=612x612&w=0&k=20&c=8KUqBMWDXiF5cuczKzEdChDggg_9O8_3-oHGW9haa4w=" width="230px" height="200px"/>
+           <h3 style="font-family:cursive;font-size:40px">6.Арабська</h3>
+           <p style="font-size:20px">арабська, носіями якої є 295 мільйонів носіїв, займає шосте місце в світі за кількістю людей, що говорять нею, і є єдиною з нашого рейтингу, де напрямок письма йде справа наліво.</p> <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSG_jTGo2eOtHBVWP7gZyyssBeBjGBC1xHh3ggFECyzQ&s"/>
+           <h3 style="font-family:cursive;font-size:40px">7.Бенгалі</h3>
+           <p style="font-size:20px">сьома за поширеністю мова, якою говорять 265 мільйонів людей, використовується в Бангладеш та Індії. Існує думка, що Бенгалі друга за милозвучністю в світі – після французької.</p> <br> <img src="https://islamnews.ru/wp-content/uploads/2009-12/1261545407/news-YDTMtTz2Ll.jpg" width="230px" height="200px"/>
+       </main>
+       <footer>
+           <h4 style="background-color:black;color:white">У вас з'явилося идея для теми нового сайту?<br>Тоді пишіть oсь сюди-->@tv_novynu.com</h4>
+       </footer>
+    </body>
+</html>
